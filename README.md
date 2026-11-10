@@ -1,4 +1,54 @@
 ## E-commerce-Growth-CRM-Analytics
+### Contexto empresarial
+Empresa fictícia
+**Vitta Commerce**
+E-commerce brasileiro de produtos para casa, decoração e lifestyle.
+A empresa cresceu rapidamente nos últimos 12 meses, aumentando seus investimentos em aquisição de clientes.
+Entretanto, a diretoria percebeu alguns problemas:
+•	O investimento em marketing está aumentando.
+•	O número de clientes novos cresce, mas a recompra não acompanha.
+•	O CAC parece estar aumentando.
+•	Algumas campanhas geram muitas vendas, mas pouca receita líquida.
+•	A equipe de CRM não sabe quais clientes priorizar.
+•	Não existe uma estratégia clara de retenção baseada em dados.
+
+Objetivo principal:
+Identificar oportunidades para aumentar a receita e a rentabilidade da empresa, melhorando a aquisição, conversão, retenção e reativação de clientes por meio de decisões data-driven
+
+2. Essas perguntas serão o núcleo do projeto. Cada análise deve responder a uma pergunta empresarial específica.
+A. Marketing Performance
+•	Qual canal de marketing gera mais receita?
+•	Qual canal apresenta melhor eficiência de aquisição?
+•	Quais campanhas apresentam maior CAC?
+•	O canal com maior número de clientes é realmente o mais rentável?
+•	Existe diferença entre receita atribuída e receita total?
+•	Quais campanhas devem receber mais ou menos orçamento?
+B. Customer Acquisition
+•	Como evoluiu a aquisição de novos clientes?
+•	O CAC está aumentando ao longo do tempo?
+•	Quais segmentos possuem maior custo de aquisição?
+•	Qual canal atrai clientes com maior potencial de recompra?
+•	Existe sazonalidade na aquisição?
+C. Customer Retention
+•	Qual percentual dos clientes retorna para comprar?
+•	Em quanto tempo ocorre a segunda compra?
+•	Quais canais atraem clientes mais recorrentes?
+•	Quais segmentos apresentam maior churn comportamental?
+•	Quais cohorts apresentam melhor retenção?
+D. CRM & Customer Segmentation
+•	Quais clientes devem receber campanhas de reativação?
+•	Quais clientes apresentam maior valor potencial?
+•	Quais clientes estão próximos de abandonar a empresa?
+•	Quais segmentos respondem melhor a descontos?
+•	Como construir uma estratégia de comunicação personalizada?
+E. Business Strategy
+•	Onde a empresa deveria aumentar o investimento?
+•	Qual é a oportunidade financeira de melhorar a recompra?
+•	Qual seria o impacto de reduzir o CAC?
+•	Qual estratégia de CRM deveria ser priorizada?
+•	Como medir se as campanhas realmente funcionaram?
+
+
 Análise de funil de marketing e perfil de clientes para um e-commerce, com dados de campanhas de CRM (7.000 envios) e base de pedidos.
 
 1. Diagnóstico do funil de marketing
