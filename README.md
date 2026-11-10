@@ -36,10 +36,10 @@ Pelo boxplot dos principais influenciadores, quem consome mais está na faixa et
 
 
 Insights acionáveis
-O faturamento bruto apresentou crescimento exponencial. Foram R$ 184,7 mil em descontos no período; sem comparação com o ano anterior, não é possível medir o impacto anual desse valor.
+O faturamento bruto cresceu de forma exponencial ao longo do ano com o CTR praticamente estável, indicando ganho de escala sem perda de engajamento por mensagem. Foram R$ 184,7 mil em descontos no período; sem comparação com o ano anterior, não é possível medir o impacto anual desse valor.
 Campanhas de e-mail para o perfil 25–34 anos, focadas em produtos na faixa de R$ 50–100: melhor performance em quantidade, mas com ticket médio menor. Vale testar ofertas de maior valor para elevar o ticket desse mesmo perfil.
 Campanhas com melhor conversão: Welcome Series (12), VIP Early Access (18) e Winback 90d (14) — priorizar esses fluxos e replicar a lógica de segmentação deles nas demais campanhas.
-CTR em queda: a variação acumulada do CTR ficou negativa (-0,03%). A performance acumulada frente aos meses anteriores é boa, mas o clique é o ponto a atacar.
+CTR estável no acumulado: a variação do CTR no ano ficou em -0,03 p.p., com o indicador oscilando entre 1,94% (março) e 15,79% (janeiro) e fechando o ano em 6,42%. O ponto de atenção não é a tendência — é o nível.
 Entrega: 93,2% do total de pedidos foram entregues, indicando boa eficácia operacional de vendas.
 
 
