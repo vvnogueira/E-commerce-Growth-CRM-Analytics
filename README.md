@@ -1,7 +1,10 @@
 ## E-commerce-Growth-CRM-Analytics
 ### Contexto empresarial
-Empresa fictícia
+
+
 **Vitta Commerce**
+
+
 E-commerce brasileiro de produtos para casa, decoração e lifestyle.
 A empresa cresceu rapidamente nos últimos 12 meses, aumentando seus investimentos em aquisição de clientes.
 Entretanto, a diretoria percebeu alguns problemas:
